@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Manar Said, and I’m a Full Stack Developer based in Cairo, Egypt (from 10th of Ramadan City).<br>I specialize in backend development while also having strong experience in building and managing frontend applications.</h2>
+<h2 align="center">Hi 👋! My name is Manar abdelhadi, and I’m a Full Stack Developer based in Cairo, Egypt (from 10th of Ramadan City).<br>I specialize in backend development while also having strong experience in building and managing frontend applications.</h2>
 
 ###
 
